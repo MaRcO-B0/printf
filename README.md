@@ -1,2 +1,2 @@
 # printf
-Ich nutze den Editor ed und den Compiler gcc
+Ich nutze den Editor vim und den Compiler clang
