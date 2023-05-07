@@ -1,7 +1,7 @@
 #include<stdio.h>
 
-int main () {
-	printf ("Hello World\n");
+int main ()  {
+       	printf(" <:3)~~~~\n ");
 	return 0;
 }
 
